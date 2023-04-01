@@ -1,3 +1,28 @@
+              ### Socials
+              
+              
+            <p align="left">
+                      
+                  <a href="https://www.codepen.io/@Chimex2022" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" width="32" height="32" /></a>
+                      
+                  <a href="https://discord.com/users/Kirchoff" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+                      
+                  <a href="https://www.github.com/Chimex2022" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+                      
+                  <a href="https://www.linkedin.com/in/gabriel-chima2021" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+                      
+                  <a href="http://www.medium.com/Kirchoff" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a>
+                      
+                  <a href="https://www.stackoverflow.com/users/Anyaele Gabriel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
+                      
+                  <a href="https://www.twitter.com/@Chimex2022" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
+                  href="http://www.github.com/Chimex2022"><img src="https://github-readme-stats.vercel.app/api?username=Chimex2022&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Chimex2022's GitHub stats" /></a><a
+                  href="http://www.github.com/Chimex2022"><img
+              src="https://github-readme-streak-stats.herokuapp.com/?user=Chimex2022&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
+                  href="http://www.github.com/Chimex2022"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Chimex2022&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/Chimex2022" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chimex2022&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/Chimex2022/https://github.com/Chimex2022/portfolio-react.git" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Chimex2022&repo=https://github.com/Chimex2022/portfolio-react.git&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Chimex2022/https://github.com/Chimex2022/social-chat.git" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Chimex2022&repo=https://github.com/Chimex2022/social-chat.git&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><div width="100%" align="center"><a href="https://github.com/Chimex2022/https://github.com/Chimex2022/qrGenerator.git" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Chimex2022&repo=https://github.com/Chimex2022/qrGenerator.git&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Chimex2022/https://github.com/Chimex2022/birthday-reminder.git" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Chimex2022&repo=https://github.com/Chimex2022/birthday-reminder.git&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>### Support Me<a
+              href="https://www.buymeacoffee.com/https:/kirchoff20J"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anyaele Gabriel
 =======================================================================================================================================
 
