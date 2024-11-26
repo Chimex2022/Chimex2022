@@ -14,7 +14,7 @@ Additionally, I prioritize maintainability and scalability in my codebase, allow
 
 
 * 🌍 I'm based in Lagos, Nigeria
-* 🖥️ See my portfolio at ([https://portfolio-react-flax.vercel.app/](https://portfolio-react-flax.vercel.app/)])
+* 🖥️ See my portfolio at ([https://portfolio-react-flax.vercel.app/](https://portfolio-react-flax.vercel.app/))
 * ✉️ You can contact me at [kirchoff200@gmail.com](mailto:Kirchoff200@gmail.com)
 * 🧠 I'm learning Svelte
 * 🤝 I'm open to collaborating on React or Next.js Projects
